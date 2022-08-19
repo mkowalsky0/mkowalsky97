@@ -10,9 +10,9 @@ I'm a student of Biomedical Engineering at WUT in Poland. Enthusiast of Data Sci
 
 ## Things I'm learing already:
 
-- medical aspects in IT
-- Data Science in Python
-- TensorFlow library
+- :man_scientist: medical aspects in IT
+- :chart_with_upwards_trend: Data Science in Python
+- :page_facing_up: TensorFlow library
 
 ## Where to reach me:  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="40" />
 
