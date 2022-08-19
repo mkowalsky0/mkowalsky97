@@ -4,9 +4,20 @@ I'm Michał Kowalski,
 
 - *Currently: BSc Student at Warsaw Univeristy of Technology, Poland*
 
+## About me:
 
-## Where to reach me:
+I'm a student of Biomedical Engineering at WUT in Poland. Enthusiast of Data Science, Deep Learning and Neural Networks. Passionate of art, traveling, snowboard and techno music. Almost two years ago i moved to France, just to experience new things :earth_africa:
 
-[<img src="https://media.giphy.com/media/sQB6lgeTlv5Krjq7YN/giphy.gif" width="40">](http://google.com.au/)
-[<img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="40">](michalkowalski0097@gmail.com)
+## Things I'm learing already:
 
+- medical aspects in IT
+- Data Science in Python
+- TensorFlow library
+
+## Where to reach me:  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="40" />
+
+You can find me on my linkedin profile or send me an email:
+
+- :necktie: [Linkedin](www.linkedin.com/in/michalkowalski0097)
+
+- :mailbox_with_mail: michalkowalski0097@gmail.com
